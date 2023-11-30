@@ -3,3 +3,9 @@ p{
     font-size: 40px;
     text-align: justify;
 } 
+header{
+    padding:20px;
+    color: blue
+    font-size: 15px
+    border-bottom:5px solid red;
+}
